@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/license-MIT-orange.svg)
 
 <div align="center">
-  <img src="/osint-tools/assets/magiceye.png" alt="Magic Eye Logo">
+  <img src="/assets/magiceye.png" alt="Magic Eye Logo">
   <p><strong>OSINT Tool Used To Explore Information On Website</strong></p>
 </div>
 
