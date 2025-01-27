@@ -163,8 +163,23 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 This tool is intended for legal and ethical use only. Users are responsible for ensuring compliance with applicable laws and regulations. The developers are not responsible for any misuse or damage caused by this tool.
 
+## 📧 Contact
+
+Rexzea - [Instagram](https://www.instagram.com/alzennora/profilecard/?igsh=Ym8wZHFjcWRxaWhx) - futzfarry@gmail.com
+
+
+
+Project Link: [self-driving-car](https://github.com/rexzea/self-driving-car)
+
 ---
++62 898-8610-455
+
 <div align="center">
-  <p>Made with ❤️ by Rexzea</p>
-  <p>© 2024 Magic Eye Project</p>
+
+
+![Logo Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+```
+🌟 Made with ❤️ by Rexzea 🌟
+```
+
 </div>
