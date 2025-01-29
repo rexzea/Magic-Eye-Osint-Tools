@@ -11,6 +11,7 @@ import csv
 from urllib.parse import urlparse
 import os
 
+
 class RexzeaHunterOsint:
     def __init__(self):
         self.results = {
