@@ -163,21 +163,30 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 This tool is intended for legal and ethical use only. Users are responsible for ensuring compliance with applicable laws and regulations. The developers are not responsible for any misuse or damage caused by this tool.
 
-## 📧 Contact
 
-Rexzea - [Instagram](https://www.instagram.com/alzennora/profilecard/?igsh=Ym8wZHFjcWRxaWhx) - futzfarry@gmail.com
-
-
-
-Project Link: [self-driving-car](https://github.com/rexzea/self-driving-car)
-
----
-+62 898-8610-455
+## 📞 Support & Contact
+Need assistance? Reach out through:
+- 📧 Email: [futzfary@gmail.com](mailto:futzfary@gmail.com)
+- 📱 Phone: +62 898-8610-455
+- 💬 GitHub Issues: Open a new issue in the repository
 
 <div align="center">
 
-
 ![Logo Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+
+```
+🌟 Crafted with ❤️ by Rexzea 🌟
+```
+</div>
+
+---
+
+<div align="center">
+
+### Show Your Support
+⭐ Star this repository if you find it helpful! ⭐
+
+[Report Bug](https://github.com/rexzea/Magic-Eye-Osint-Tools/issues) · [Request Feature](https://github.com/rexzea/Magic-Eye-Osint-Tools/issues)
 ```
 🌟 Made with ❤️ by Rexzea 🌟
 ```
