@@ -28,7 +28,7 @@ Magic Eye is a powerful OSINT (Open Source Intelligence) tool designed for compr
 git clone https://github.com/rexzea/Magic-Eye-Osint-Tools.git
 
 # Navigate to the directory
-cd [select the file you want to select]
+cd Magic-Eye-Osint-tools
 
 ```
 
