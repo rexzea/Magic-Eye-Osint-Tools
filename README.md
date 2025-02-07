@@ -8,7 +8,7 @@
   <p><strong>OSINT Tool Used To Explore Information On Website</strong></p>
 </div>
 
-
+ 
 ## 🌟 Overview
 
 Magic Eye is a powerful OSINT (Open Source Intelligence) tool designed for comprehensive website analysis and intelligence gathering. With four specialized modes of operation, it provides flexible and detailed insights into web infrastructure, content, and security aspects.
